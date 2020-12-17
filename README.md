@@ -5,3 +5,5 @@ Seed nodes have been added and we are working on configuring Lonero for a large 
 ```
 ./forknoted --config-file configs/lonero.conf
 ```
+
+This should work, however if you run into any connection problems, try the `--seed-node` argument
